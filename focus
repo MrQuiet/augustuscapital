@@ -1,0 +1,340 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no"
+          name="viewport">
+  <meta name="format-detection" content="telephone=no">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link rel="shortcut icon" href="sites/all/themes/idgcapital/favicon.ico" type="image/vnd.microsoft.icon" />
+  <link rel="canonical" href="focus" />
+  <title>Focus | Augustus Capital</title>
+  <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+  <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_9PPr3VH1_6u5XaxqqqBW_eiLD1HFlbAcsE21CrEd_ng.css" media="all" />
+  <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+  <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_KK5Xa95BteOWfc4phGvfTB-zwT2Fd1TeQXaZfJ9A5tM.css" media="all" />
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-22 node-type-page" >
+    <div id="mobileDeviceAlert"></div>
+    <div id="cover" onclick="void(0)"></div>
+    <div id="weChatQR" class="disclaimerPopup">
+        <div class="disclaimer-exit" onclick="void(0)"></div>
+        <p class="biggerSp"><span>Augustus Capital WeChat qr Code</span></p>
+        <div id="weChatQRActual"></div>
+    </div>
+    <div class="header">
+        <div class="content">
+            <a id="logo" href="index.html"><img src="sites/all/themes/idgcapital/images/logo.jpg"></a>
+            <a id="btn-menu"><i class="b"></i><i class="b"></i><i class="b"></i></a>
+            <div id="menu">
+                <ul class="links"><li class="menu-222 first"><a href="index.html">Home</a></li>
+                    <li class="menu-364"><a href="about-us">About Us</a></li>
+                    <li class="menu-365"><a href="team">Team</a></li>
+                    <li class="menu-367 active-trail active"><a href="focus" class="active-trail active">Focus</a></li>
+                    <li class="menu-373"><a href="portfolio" title="">Portfolio</a></li>
+                    <li class="menu-374 last"><a href="contact-us">Contact Us</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="container">
+        <div class="aside">
+            <div id="block-block-5" class="block block-block">
+                <div class="nav">
+                <h4>Focus</h4>
+                <ul><li><a data-scroll="sector">Strategic Sector</a></li>
+                <li><a data-scroll="investment">Core Investment</a></li>
+                <li><a data-scroll="casestudies">Case Studies</a></li>
+                </ul></div>
+            </div>
+            <div id="block-block-6" class="block block-block">
+                <div class="scontent">
+                    <h6>2017</h6>
+                    <p>portfolio companies</p>
+                    <h6>25</h6>
+                    <p>years in China</p>
+                    <h6>0</h6>
+                    <p>successful exits</p>
+                </div>
+            </div>
+       </div>
+        <div class="main-right">
+            <div id="block-block-7" class="block block-block">
+                <div class="theater page-banner focus-banner"><h2 class="title">Focus</h2></div>
+            </div>
+            <div class="main-content">
+                <div class="tabs"></div>
+                <div id="block-system-main" class="block block-system">
+                    <div id="node-22" class="node node-page node-full clearfix">
+                        <div class="node-content clearfix">
+                                <div class="sector">
+                                    <h2>Strategic Sectors</h2>
+                                    <p class="big">Augustus Capital excels in three areas of investment: <span>Venture Capital, Private Equity</span>.</p>
+                                    <h3>Our Investment’s Focus on three Strategic Sectors:</h3>
+                                    <div class="sectors">
+                                        <a class="box tmt" href="portfolio?tid=1"><span style="position: relative; top: 32.5px;">Blockchian Technology</span> </a><a class="box healthcare" href="portfolio?tid=3"> <span style="position: relative; top: 40.5px;">Cybersecurity</span> </a><a class="box consumer" href="portfolio?tid=4"> <span style="position: relative; top: 41px;">Gaming</span> </a><a class="box tech" href="portfolio?tid=2"> <span style="position: relative; top: 33px;">Blockchian Technology</span> </a>
+                                    </div>
+                                    <p>Within these sectors, we will invest in companies at all development stages: start-up, growth, maturity, pre-IPO and post-IPO. The size of our investments rang from one million to several hundred million U.S. dollars. As long-term investors, our goal is to work with leading entrepreneurs and management teams to make the world a better place. We are always looking for new dynamic business opportunities through which we can create value for our investors and portfolio companies.</p>
+                                </div>
+                                <div class="investment">
+                                    <h2>Core Investment Themes</h2>
+                                    <ul>
+                                        <li>Advance Technology on Blockchain Technology</li>
+                                        <li>Facilitate the strengthen and transformation of the free-trade and globalization</li>
+                                        <li>Help to build a securing Blockchain environment</li>
+                                    </ul>
+                                </div>
+                                <div class="casestudies">
+                                    <h2>Case Studies</h2>
+                                    <dl class="case-list">
+                                	<dt><span>Venture Capital</span></dt>
+                                	<dd><div class="casestudy">
+                                	<div class="column"><img src="sites/all/themes/idgcapital/case-studies/584797_longshine.png" />
+                                	<div class="sd"><p>An innovative, leading provider of software and IT services to China’s power and electricity industry.</p></div>
+                                	<p class="items"><span>Region:</span> China<br />
+                                	<span>Industry:</span> Information Technology<br />
+                                	<span>Investment Size:</span> Over US$20 million<br />
+                                	<span>Co-investment Group:</span> IDG Capital, Longshine management team, Alibaba Capital, Boyu Capital</p>
+                                	</div>
+                                	<div class="column">
+                                	<p>IDG CAPITAL’S ANALYSIS<br />
+                                	As the market leader in management software, IT solutions, and system integration services for power companies in China, the business should be able to achieve at least 35% growth per annum</p>
+
+                                	<p>IDG CAPITAL’S ACTION PLAN<br />
+                                	1) Identify the company’s major problems while a business unit of Amdocs (NASDAQ：DOX), an Israeli technology company. Support former management team’s buyout/carveout from Amdocs</p>
+                                	<p>2) Establish proper incentive mechanisms for the management team</p>
+                                	<p>3) Spin off less profitable telecom business to Huawei in order to focus on power industry</p>
+                                	<p>4) Restructure the company from off-shore to on-shore to prepare for a return to the domestic capital market</p>
+                                	<p>5) Help company build strategic partnerships with Alibaba to expand B2C business</p>
+                                	<p>6) Facilitate the IPO process as the largest institutional investor</p>
+                                	<p>RESULT<br />
+                                	Longshine has successfully gone from a net loss to a significant profit and has established itself as the market leader in software and IT solutions for both B2B and B2C businesses. Longshine was successfully listed in the A-share market, and IDG Capital is expected to realize significant gross return.</p>
+                                	</div>
+                                	</div>
+                                	<div class="casestudy">
+                                	<div class="column"><img src="sites/all/themes/idgcapital/case-studies/584798_Meitu_Logo.png" />
+                                	<div class="sd">
+                                	<p>Meitu is one of China's leading suppliers of image editing software for mobile-based video and photography. Its virtual makeup applications generate 6 billion photos and videos per month.</p>
+                                	</div>
+                                	<p class="items"><span>Region:</span> China<br />
+                                	<span>Industry:</span> Technology Media &amp; Telecommunications<br />
+                                	<span>Investment Size:</span> Over USD$10 million<br />
+                                	<span>Co-investment Group:</span> IDG Capital, Sinovation Ventures, Tiger Global Management, Qiming Venture Partners and others</p>
+                                	</div>
+                                	<div class="column">
+                                	<p>IDG CAPITAL’S ANALYSIS</p>
+                                	<p>Meitu became a dominant player as its market consolidated because it developed a series of popular beauty-oriented software and hardware products that allow users to enhance and manipulate images for a fast-growing “selfie” culture. The company has made significant breakthroughs in page views and user loyalty. IDG Capital already had a good working relationship with Meitu’s founder, Cai Wensheng, an ambitious, forward-looking entrepreneur.</p>
+                                	<p>IDG CAPITAL’S ACTION PLAN</p>
+                                	<p>We recommended that Meitu integrate a social networking feature into its smartphone’s image editing apps, leading to a significant increase in its user-base.</p>
+                                	<p>RESULT</p>
+                                	<p>Meitu had an IPO in December 2016 on the Hong Kong exchange(HKG: 1357). The company currently has 450 million active users worldwide in 26 countries. We have remained on the board to help Meitu continue its development.</p>
+                                	</div>
+                                	</div>
+                                	</dd>
+                                </dl>
+                                    <dl class="case-list">
+                                	<dt><span>Private Equity</span></dt>
+                                	<dd>
+                                	<div class="casestudy">
+                                	<div class="column"><img src="sites/all/themes/idgcapital/case-studies/584800_wuzhen.png" />
+                                	<div class="sd">
+                                	<p>A national AAAAA scenic water town located in Eastern China. One of China’s top 10 historical &amp; cultural destinations.</p>
+                                	</div>
+                                	<p class="items"><span>Region:</span> China<br />
+                                	<span>Industry:</span> Tourism<br />
+                                	<span>Investment Size:</span> Low double-digit million USD<br />
+                                	<span>Co-investment Group:</span> IDG Capital, China Youth Travel Service, Tongxiang City Government</p>
+                                	</div>
+                                	<div class="column">
+                                	<p>IDG CAPITAL’S ANALYSIS<br />
+                                	Located in the heart of the Yangtze River triangle and a candidate for selection as a UNESCO World Heritage site, Wuzhen has the potential to be the number-one tourist destination in China land a leading tourist destination worldwide</p>
+                                	<p>IDG CAPITAL’S ACTION PLAN<br />
+                                	1) Partner with the Tongxiang City government to help launch the project. Provide financial and managerial support throughout</p>
+                                	<p>2) Take an active role in the original plans and design of the scenic area.&nbsp;</p>
+                                	<p>3) Help Wuzhen become the first Chinese tourism site to provide free Wi-Fi coverage, a key factor in its selection as the permanent venue for the prestigious World Internet Conference</p>
+                                	<p>4) Leverage IDG Capital’s resources in the TMT sector to help Wuzhen optimize its management and operations to streamline its business</p>
+                                	<p>5) Provide continued PR support to Wuzhen, utilizing IDG Capital’s extensive network in media and entertainment</p>
+                                	<p>RESULT<br />
+                                	Wuzhen has successfully grown into the most profitable AAAAA scenic spot in China. It has become a role model in the Chinese tourism industry and now is the permanent location of one of the most prestigious conference-World Internet Conference. It hosts more than five million Chinese and foreign tourists per year. IDG Capital has realized strong return on its investment.</p>
+                                	</div>
+                                	</div>
+                                	<div class="casestudy">
+                                	<div class="column"><img src="sites/all/themes/idgcapital/case-studies/584799_moncler.png" />
+                                	<div class="sd">
+                                	<p>A leading Italian luxury lifestyle brand, best known for its down jackets.</p>
+                                	</div>
+                                	<p class="items"><span>Region:</span> Italy<br />
+                                	<span>Industry:</span> Consumer luxury products<br />
+                                	<span>Year:</span> 2011-2015<br />
+                                	<span>Investment Size:</span> More than US$30 million<br />
+                                	<span>Co-investment Group:</span> IDG Capital, Eurazeo</p>
+                                	</div>
+
+                                	<div class="column">
+                                	<p>IDG CAPITAL’S ANALYSIS<br />
+                                	Moncler had untapped growth potential in product diversification and consolidation of distribution channels. Our in-depth knowledge of the Chinese and global retail sectors also identified several important geographical markets, including China, Korea and Japan.</p>
+
+                                	<p>IDG CAPITAL’S ACTION PLAN<br />
+                                	Help promote Moncler’s brand image in China. Assist Moncler to foster partnerships with distributors and shopping mall operators in China and help it further expand in Asia.</p>
+
+                                	<p>RESULT<br />
+                                	During IDG Capital’s involvement with the company, Moncler Asia revenues grew dramatically, mainly due to strong development in China. Moncler had an IPO on the Milan Stock Exchange in December 2013.</p>
+                                	</div>
+                                	</div>
+
+                                	<div class="casestudy">
+                                	<div class="column"><img src="sites/all/themes/idgcapital/case-studies/584795_farfetch.png" />
+                                	<div class="sd">
+                                	<p>A global luxury fashion online platform that sells products from over 700 boutiques and brands.</p>
+                                	</div>
+
+                                	<p class="items"><span>Region:</span> United Kingdom<br />
+                                	<span>Industry:</span> E-Commerce<br />
+                                	<span>Year:</span> 2016<br />
+                                	<span>Investment Size:</span> More than US$50 million<br />
+                                	<span>Co-investment Group:</span> IDG Capital, Temasek, Eurazeo and others</p>
+                                	</div>
+
+                                	<div class="column">
+                                	<p>IDG CAPITAL’S ANALYIS<br />
+                                	Farfetch had the potential to become the leading fashion marketplace in several key regions, including Europe and the U.S. because of its innovative technology, business model and strong management team. Although the company was relatively unknown in China, it had a huge opportunity there, because of the country’s rapid growth in fashion consumption and a dramatic shift from offline to online purchases. We recognized that Farfetch could become the leading source of information about overseas fashion brands in China, while also providing the largest global inventory of luxury fashion products to Chinese consumers.</p>
+
+                                	<p>IDG CAPITAL’S ACTION PLAN<br />
+                                	IDG Capital encouraged Farfetch to invest more resources in China, which led the company to enlarge its team in Shanghai. We helped Farfetch set effective business goals and aided it with recruitment, business relationships and strategic partnerships.</p>
+
+                                	<p>RESULT<br />
+                                	During IDG Capital’s involvement with Farfetch, its valuation increased dramatically.&nbsp;</p>
+                                	</div>
+                                	</div>
+                                	</dd>
+                                </dl>
+                                    <dl class="case-list">
+                                	<dt><span>Mergers &amp; Acquisitions</span></dt>
+                                	<dd>
+                                	<div class="casestudy">
+                                	<div class="column"><img src="sites/all/themes/idgcapital/case-studies/584796_idg.png" />
+                                	<div class="sd">
+                                	<p>International Data Group is the world’s leading technology&nbsp;media, data and marketing services&nbsp;company with US$582 million revenue in FY15 (excluding its venture capital business).</p>
+                                	</div>
+
+                                	<p class="items"><span>Region:</span> United States<br />
+                                	<span>Industry:</span> Technology&nbsp;media,&nbsp;data&nbsp;and&nbsp;marketing services, venture capital<br />
+                                	<span>Year:</span> 2017<br />
+                                	<span>Investment Size:</span> Over US$1 billion<br />
+                                	<span>Co-investment Group:</span> IDG Capital as lead investor; China Oceanwide, China Everbright, Bank of China Group Investment as co-investors</p>
+                                	</div>
+
+                                	<div class="column">
+                                	<p>IDG CAPITAL’S ANALYSIS<br />
+                                	1) Acquire IDG brand names and licenses globally</p>
+
+                                	<p>2) Achieve significant cost savings by restructuring. Help the technology media and data service businesses increase their market share in China</p>
+
+                                	<p>3) Target company’s valuation multiples to be significantly lower than comparable domestic companies, with potential to exit in A-share round for multiple arbitrage</p>
+
+                                	<p>IDG CAPITAL’S ACTION PLAN<br />
+                                	Identify acquisition target by utilizing our global platform, ensuring regulatory approval from relevant government agencies. Lead the strategic negotiation process for co-investors and design the innovative deal structure for acquisition and post-deal integration.</p>
+
+                                	<p>RESULT<br />
+                                	Acquisition was successfully completed in January 2017 for the VC assets and in March 2017 for the non-VC assets. The second-phase merger process has been launched with an expected gross return within 3 years</p>
+                                	</div>
+                                	</div>
+
+                                	<div class="casestudy">
+                                	<div class="column"><img src="sites/all/themes/idgcapital/case-studies/584801_ledvance-osram.png" />
+                                	<div class="sd">
+                                	<p>LEDVANCE GmbH (previous OSRAM LAMPS) is one of the world's leaders in general lighting with almost 9,000 employees and 2 billion euros revenue in 2015.</p>
+                                	</div>
+
+                                	<p class="items"><span>Region:</span> Germany<br />
+                                	<span>Industry:</span> Advanced manufacturing<br />
+                                	<span>Year:</span> 2016<br />
+                                	<span>Investment Size:</span> Over €450 million<br />
+                                	<span>Co-investment Group:</span> IDG Capital as general partner; MLS, Yiwu State-Owned Assets Operation Center, CZBANK Capital and China Everbridght Limited as limited partners</p>
+                                	</div>
+
+                                	<div class="column">
+                                	<p>IDG CAPITAL’S ANALYSIS<br />
+                                	1) Achieve significant cost savings by value-chain integration and synergies from integration with MLS’s operation</p>
+
+                                	<p>2) Utilize industrial know-how and IPRs to improve MLS’s market position and gain immediate global presence</p>
+
+                                	<p>3) Target company’s valuation multiples to be significantly lower than comparable domestic companies, with potential to exit in A-share round for multiple arbitrage</p>
+
+                                	<p>IDG CAPITAL’S ACTION PLAN<br />
+                                	Identify acquisition target by utilizing our global platform, ensuring regulatory approval from relevant government agencies, providing strategic guidance to MLS management during negotiation and integration</p>
+
+                                	<p>RESULT<br />
+                                	Acquisition was successfully completed in March 2017. Second-phase merger process has been launched with expected gross return within 3 years</p>
+                                	</div>
+                                	</div>
+                                	</dd>
+                                </dl>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="content">
+            <div class="footer-top">
+                <a href="index.html" class="logo"><img src="sites/all/themes/idgcapital/images/logo_white.png"></a>
+                <div class="footer-blocks">
+                    <div id="block-block-17" class="block block-block">
+                        <div class="social">
+                            <a href="https://www.linkedin.com/company/idgvc" target="_blank"><img
+                                src="sites/all/themes/idgcapital/images/linkedin.svg" border="0"
+                                style="position: relative; top: 4.5px;"></a>
+                            <a href="https://twitter.com/IDGCapital" target="_blank"><img
+                                src="sites/all/themes/idgcapital/images/twitter.svg" border="0"
+                                style="position: relative; top: 4.5px;"></a>
+                        <!--<a href="https://www.youtube.com/channel/" target="_blank"><img src="/sites/all/themes/idgcapital/i/youtube.svg" border="0"/></a>-->
+                            <a class="weChatLink"><img src="sites/all/themes/idgcapital/images/wechat.svg" border="0"
+                                                   style="position: relative; top: 4.59375px;"></a>
+                        </div>
+                    </div>
+                    <div id="block-menu-block-1" class="block block-menu-block">
+                        <h2>Augustus Capital</h2>
+                        <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+                            <ul class="menu clearfix"><li class="first leaf active menu-mlid-222"><a href="index.html">Home</a></li>
+                            <li class="leaf menu-mlid-364"><a href="about-us">About Us</a></li>
+                            <li class="leaf menu-mlid-365"><a href="team">Team</a></li>
+                            <li class="leaf menu-mlid-367 active-trail active"><a href="focus" class="active-trail active">Focus</a></li>
+                            <li class="leaf menu-mlid-373"><a href="portfolio" title="">Portfolio</a></li>
+                            <li class="last leaf menu-mlid-374"><a href="contact-us">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div id="block-block-18" class="block block-block">
+                            <h2>Offices</h2>
+                        <div class="block-content"><a href="contact-us?office=New%2520York">Silicon Valley</a></div>
+                    </div>
+                </div>
+            </div>
+            <div id="block-block-1" class="block block-block">
+                <p>© 2018 Augustus Capital. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+<script type="text/javascript" src="sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="sites/default/files/js/js_EV_6Gx66nvksyqjzgy0LmZTkh9TYydUCGB7Rs5bjwDE.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"idgcapital","theme_token":"EWUuqNvbDNhWoIp0GNnb4ZV9DpjT88pKvgsMr8lIrAY","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/idgcapital\/js\/jquery.js":1,"sites\/all\/themes\/idgcapital\/js\/swiper.min.js":1,"sites\/all\/themes\/idgcapital\/js\/main.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/idgcapital\/css\/swiper.min.css":1,"sites\/all\/themes\/idgcapital\/css\/style.css":1}}});
+//--><!]]>
+</script>
+  <script type="text/javascript" src="sites/all/themes/idgcapital/js/focus.js"></script>
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?a0a6d89c3407f49ce7dc8de37b4b41be";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+</body>
+</html>

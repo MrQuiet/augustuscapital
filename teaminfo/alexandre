@@ -1,0 +1,107 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no"
+          name="viewport">
+  <meta name="format-detection" content="telephone=no">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link rel="shortcut icon" href="../sites/all/themes/idgcapital/favicon.ico" type="image/vnd.microsoft.icon" />
+  <link rel="canonical" href="alexandre" />
+  <title>Alexandre | IDG Capital</title>
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_9PPr3VH1_6u5XaxqqqBW_eiLD1HFlbAcsE21CrEd_ng.css" media="all" />
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_KK5Xa95BteOWfc4phGvfTB-zwT2Fd1TeQXaZfJ9A5tM.css" media="all" />
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-39 node-type-team" >
+
+<div class="header">
+    <div class="content">
+        <a id="logo" href="../index.html"><img src="../sites/all/themes/idgcapital/images/logo.jpg"></a>
+        <a id="btn-menu"><i class="b"></i><i class="b"></i><i class="b"></i></a>
+        <div id="menu">
+            <ul class="links"><li class="menu-222 first"><a href="../index.html">Home</a></li>
+                <li class="menu-364"><a href="../about-us">About Us</a></li>
+                <li class="menu-365"><a href="../team">Team</a></li>
+                <li class="menu-367"><a href="../focus">Focus</a></li>
+                <li class="menu-373"><a href="../portfolio" title="">Portfolio</a></li>
+                <li class="menu-374 last"><a href="../contact-us">Contact Us</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div id="container">
+    <div class="tabs"></div>
+    <div id="block-block-4" class="block block-block">
+        <div class="theater page-banner team-banner">
+            <div class="content">
+                <h2 class="title">Team</h2>
+            </div>
+        </div>
+    </div>
+    <div id="block-system-main" class="block block-system">
+        <div class="bio" id="node-39">
+            <div class="content bio-detail">
+                <a class="btn-close" href="javascript: history.back();"></a>
+                <dl>
+                    <dt>
+                        <img src="http://en.idgcapital.com/sites/default/files/styles/avatar282x298/public/team/Gary.png?itok=1RkqZXuB" width="370" height="394" alt="" />
+                    </dt>
+                    <dd>
+                        <h3>Alexandre Quirici</h3>
+                        <p>Alexandre Quirici has been working on China-focused projects for the past nine years and is now responsible for Cross-border Investments. Prior to joining IDG Capital in 2010, Alexandre was an investor and executive at a Chinese brand later sold to Kering. He also previously worked for the European media group Bertelsmann, and the PE fund Quilvest. Alexandre began his career in investment banking at Credit Suisse in London. He holds a bachelor's degree in Applied Mathematics from Imperial College and an MBA from INSEAD. Alexandre speaks English, French, Spanish and Italian.</p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>
+    <footer>
+        <div class="content">
+            <div class="footer-top">
+                <a href="../index.html" class="logo"><img src="../sites/all/themes/idgcapital/images/logo_white.png"></a>
+                <div class="footer-blocks">
+                    <div id="block-block-17" class="block block-block"></div>
+                    <div id="block-menu-block-1" class="block block-menu-block">
+                        <h2>Augustus Capital</h2>
+                        <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+                            <ul class="menu clearfix"><li class="first leaf menu-mlid-222"><a href="../index.html">Home</a></li>
+                                <li class="leaf menu-mlid-364"><a href="../about-us">About Us</a></li>
+                                <li class="leaf menu-mlid-365"><a href="../team">Team</a></li>
+                                <li class="leaf menu-mlid-367"><a href="../focus">Focus</a></li>
+                                <li class="leaf menu-mlid-373"><a href="../portfolio" title="">Portfolio</a></li>
+                                <li class="last leaf menu-mlid-374"><a href="../contact-us">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div id="block-block-18" class="block block-block">
+                            <h2>Offices</h2>
+                            <div class="block-content"><a href="../contact-us?office=New%2520York">New York</a></div>
+                    </div>
+                </div>
+            </div>
+            <div id="block-block-1" class="block block-block">
+                <p>© 2018 Augustus Capital. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+<script type="text/javascript" src="../sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="../sites/default/files/js/js_EV_6Gx66nvksyqjzgy0LmZTkh9TYydUCGB7Rs5bjwDE.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"idgcapital","theme_token":"C0TPCfaqnwIJfR5ZMCpBT_FeeD0d2wY3An5r3fY4ILc","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/idgcapital\/js\/jquery.js":1,"sites\/all\/themes\/idgcapital\/js\/swiper.min.js":1,"sites\/all\/themes\/idgcapital\/js\/main.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/idgcapital\/css\/swiper.min.css":1,"sites\/all\/themes\/idgcapital\/css\/style.css":1}}});
+//--><!]]>
+</script>
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?a0a6d89c3407f49ce7dc8de37b4b41be";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+</body>
+</html>

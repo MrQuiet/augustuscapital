@@ -1,0 +1,140 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no"
+          name="viewport">
+  <meta name="format-detection" content="telephone=no">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link rel="shortcut icon" href="sites/all/themes/idgcapital/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>portfolio | Augustus Capital</title>
+  <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+  <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_9PPr3VH1_6u5XaxqqqBW_eiLD1HFlbAcsE21CrEd_ng.css" media="all" />
+  <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+  <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_KK5Xa95BteOWfc4phGvfTB-zwT2Fd1TeQXaZfJ9A5tM.css" media="all" />
+</head>
+<body class="html not-front not-logged-in no-sidebars page-portfolio" >
+    <div class="header">
+        <div class="content">
+            <a id="logo" href="index.html"><img src="sites/all/themes/idgcapital/images/logo.jpg"></a>
+            <a id="btn-menu"><i class="b"></i><i class="b"></i><i class="b"></i></a>
+            <div id="menu">
+                <ul class="links"><li class="menu-222 first"><a href="index.html">Home</a></li>
+                    <li class="menu-364"><a href="about-us">About Us</a></li>
+                    <li class="menu-365"><a href="team">Team</a></li>
+                    <li class="menu-367"><a href="focus">Focus</a></li>
+                    <li class="menu-373 active-trail active"><a href="portfolio" title="" class="active-trail active">Portfolio</a></li>
+                    <li class="menu-374 last"><a href="contact-us">Contact Us</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div id="container">
+        <div class="aside">
+            <div id="block-block-13" class="block block-block">
+                <div class="nav">
+                    <div class="search-portfolio"><label for="portfolioInput">Search Portfolio</label> <input class="fx-input" id="portfolioInput" name="q" placeholder="" type="text" value="" /><input type="button" class="search-btn" value="" /></div>
+                </div>
+            </div>
+            <div id="block-block-11" class="block block-block">
+                <div class="scontent">
+                    <h6>700+</h6>
+                    <p>portfolio companies</p>
+                    <h6>150+</h6>
+                    <p>successful exits</p>
+                </div>
+            </div>
+        </div>
+        <div class="main-right">
+            <div id="block-block-12" class="block block-block">
+                <div class="theater page-banner portfolio-banner">
+                    <h2 class="title">Portfolio</h2>
+                </div>
+            </div>
+            <div class="main-content">
+                <div class="tabs"></div>
+                    <div id="block-system-main" class="block block-system">
+                        <div class="view view-portfolio view-id-portfolio view-display-id-page view-dom-id-248dd44be0fb722147ed01fd9bd6eb7e portfolios">
+                            <div class="view-header">
+                                <div class="select">
+                                    <span>All</span>
+                                    <ul><li data-val="All" class="active">All</li>
+                                    <li data-val="1">Blockchian Technology</li>
+                                    <li data-val="2">Gaming</li>
+                                    <li data-val="3">Cybersecurity</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="portfolio-list">
+                                <div class="portfolio-item">
+                                    <a href="javascript:;" data-src="/sites/default/files/portfolio/bilibili.png" ></a>
+                                    <div class="portfolio-info">
+                                        <div class="column">
+                                            <h4>bilibili</h4>
+                                            <div class="item-list">
+                                                <ul><li class="first last">TMT (Technology, Media, Telecommunications)</li></ul>
+                                            </div>
+                                        </div>
+                                        <div class="column">
+                                            <p>Bilibili has a Chinese site for online games and video-sharing that allows audiences to interact through live-streaming. Users can submit, view and comment on videos. Content focuses on anime, manga and games. </p>
+                                            <p class="outlink"><a href="HTTP://WWW.BILIBILI.COM" target="_blank">HTTP://WWW.BILIBILI.COM</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="content">
+            <div class="footer-top">
+                <a href="index.html" class="logo"><img src="sites/all/themes/idgcapital/images/logo_white.png"></a>
+                <div class="footer-blocks">
+                    <div id="block-menu-block-1" class="block block-menu-block">
+                        <h2>Augustus Capital</h2>
+                        <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+                            <ul class="menu clearfix"><li class="first leaf active menu-mlid-222"><a href="index.html">Home</a></li>
+                            <li class="leaf menu-mlid-364"><a href="about-us">About Us</a></li>
+                            <li class="leaf menu-mlid-365"><a href="team">Team</a></li>
+                            <li class="leaf menu-mlid-367"><a href="focus">Focus</a></li>
+                            <li class="leaf menu-mlid-373"><a href="portfolio" title="" class="active-trail active">Portfolio</a></li>
+                            <li class="last leaf menu-mlid-374"><a href="contact-us">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div id="block-block-18" class="block block-block">
+                            <h2>Offices</h2>
+                        <div class="block-content"><a href="contact-us?office=New%2520York">Silicon Valley</a></div>
+                    </div>
+                </div>
+            </div>
+            <div id="block-block-1" class="block block-block">
+                <p>© 2018 Augustus Capital. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+<script type="text/javascript" src="sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="sites/default/files/js/js_unW0RJd180OJ_IKvqEOl-usj_d3p37zHdDuQz5kN9oA.js"></script>
+<script type="text/javascript" src="sites/default/files/js/js_EV_6Gx66nvksyqjzgy0LmZTkh9TYydUCGB7Rs5bjwDE.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"idgcapital","theme_token":"LQNq1v4-4K1x66nBHzl6yjNSU9jIBlDuVFeirj6MNyk","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/better_exposed_filters\/better_exposed_filters.js":1,"sites\/all\/modules\/ctools\/js\/auto-submit.js":1,"sites\/all\/themes\/idgcapital\/js\/jquery.js":1,"sites\/all\/themes\/idgcapital\/js\/swiper.min.js":1,"sites\/all\/themes\/idgcapital\/js\/main.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/idgcapital\/css\/swiper.min.css":1,"sites\/all\/themes\/idgcapital\/css\/style.css":1}},"better_exposed_filters":{"datepicker":false,"slider":false,"settings":[],"autosubmit":false,"views":{"portfolio":{"displays":{"page":{"filters":{"tid":{"required":false},"title":{"required":false}}}}}}},"urlIsAjaxTrusted":{"\/portfolio":true}});
+//--><!]]>
+</script>
+  <script type="text/javascript" src="sites/all/themes/idgcapital/js/portfolio.js"></script>
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?a0a6d89c3407f49ce7dc8de37b4b41be";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+</body>
+</html>
